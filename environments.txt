@@ -1,1 +1,2 @@
 C:\Users\DSK 8920444598\anaconda3\envs\tensorflow
+C:\Users\DSK 8920444598\anaconda3\envs\project2
