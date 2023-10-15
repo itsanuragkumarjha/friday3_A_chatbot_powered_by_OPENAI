@@ -7,4 +7,4 @@ tiktoken
 gtts
 googletrans==4.0.0-rc1
 SpeechRecognition==3.10.0
-pyaudio
+pyaudio==0.2.13
