@@ -9,4 +9,3 @@ googletrans==4.0.0-rc1
 SpeechRecognition==3.10.0
 pyaudio==0.2.13
 google-cloud-speech==2.21.0
-portaudio==19.6.0
